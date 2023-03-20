@@ -11,6 +11,9 @@
   margin-top: -120px;
   z-index: 100 !important;
 }
+li{
+  list-style: none;
+}
 #background {
   width: 360px;
   height: 360px;
